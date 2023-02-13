@@ -4,6 +4,10 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
+def welcome():
+    print('NewScreen')
+    
+    
 def click():
     print('Click')
 
