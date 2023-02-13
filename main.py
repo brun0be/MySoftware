@@ -6,6 +6,10 @@
 
 def welcome():
     print('NewScreen')
+    
+    
+def click():
+    print('Click')
 
 
 def print_hi(name):
